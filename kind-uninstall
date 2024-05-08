@@ -1,4 +1,3 @@
 #!/bin/bash
 
-sudo rm -rf ~/usr/local/bin/.kind
-
+sudo rm ~/usr/local/bin/.kind
